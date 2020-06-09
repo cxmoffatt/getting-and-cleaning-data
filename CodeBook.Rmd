@@ -37,3 +37,7 @@ Variables present in the dataset:
     - Accelerometer or Gyroscope
     - 3-axial signals in the X, Y and Z directions
     - Mean and Standard Deviation
+- Note on units:
+    - The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'.
+    - The angular velocity vector measured by the gyroscope for each window sample has units in radians/second. 
+    - Features are normalized and bounded within [-1,1]
